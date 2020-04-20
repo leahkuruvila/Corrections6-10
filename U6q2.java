@@ -9,6 +9,7 @@ public class U6q2
 {
     
    public static void main(String[] args) {
+    System.out.println("These are both valid ways to initialize an array");
     int[] arr = {10,20,30,40,50,60,71,80,90,91};   
     System.out.println(Arrays.toString(arr));
     }
